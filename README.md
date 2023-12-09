@@ -1,5 +1,10 @@
 ![Shishir Halder](https://raw.githubusercontent.com/5hishirH/5hishirH/main/assets/banner.svg "San Juan Mountains")
 
+## Contact me
+- Email - shishirhalder2001@gmail.com
+- LinkedIn - https://www.linkedin.com/in/shishir-halder-2684552a4/
+- Facebook - https://www.facebook.com/mysterious.shishirhalder/
+
 ## Technologies Known to Me
 
 <p align="center">
