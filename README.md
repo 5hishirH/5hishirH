@@ -1,7 +1,7 @@
 ![Shishir Halder](https://raw.githubusercontent.com/5hishirH/5hishirH/main/assets/banner.svg "San Juan Mountains")
 
 ## Current Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=5hishirH%20&theme=dark&card_width=800)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=5hishirH%20&theme=dark&card_width=1080)](https://git.io/streak-stats)
 
 
 <!--
