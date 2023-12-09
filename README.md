@@ -1,9 +1,16 @@
 ![Shishir Halder](https://raw.githubusercontent.com/5hishirH/5hishirH/main/assets/banner.svg "San Juan Mountains")
 
 ## Current Stats
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=5hishirH%20&theme=dark&card_width=1080)](https://git.io/streak-stats)
 
+## Technologies Known to Me
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,c,react,tailwind,firebase,mongodb,nextjs&perline=5" />
+  </a>
+</p>
 <!--
 **5hishirH/5hishirH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,4 +24,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
