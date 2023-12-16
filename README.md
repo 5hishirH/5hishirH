@@ -19,7 +19,9 @@
 
 ## Current Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=5hishirH%20&theme=dark&card_width=900)](https://git.io/streak-stats)
+<p align="center">
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=5hishirH%20&theme=dark](https://git.io/streak-stats)
+</p>
 
 <!--
 **5hishirH/5hishirH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
